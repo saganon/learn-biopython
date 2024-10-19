@@ -1,0 +1,3 @@
+Spell: Rhinoceros unicornis, Common name: Indian rhinoceros
+Spell: Gavialis gangeticus, Common name: true gharial
+Spell: Rattus rattus, Common name: house rat

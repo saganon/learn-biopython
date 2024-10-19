@@ -1,0 +1,22 @@
+Spell: Bos gaurus, Common name: seladang
+Spell: Gazella bennettii, Common name: Indian gazelle
+Spell: Boselaphus tragocamelus, Common name: blue bull
+Spell: Canis lupus, Common name: grey wolf
+Spell: Elephas maximus, Common name: Asian elephant
+Spell: Cervus canadensis, Common name: elk
+Spell: Pavo cristatus, Common name: blue peafowl
+Spell: Grus leucogeranus, Common name: white crane
+Spell: Vulpes vulpes, Common name: silver fox
+Spell: Crocodylus palustris, Common name: Indian crocodile
+Spell: Equus caballus, Common name: domestic horse
+Spell: Equus quagga, Common name: plains zebra
+Spell: Sus scrofa, Common name: pigs
+Spell: Camelus dromedaries, Common name: camel
+Spell: Macaca mulatta, Common name: rhesus macaque
+Spell: Canis lupus, Common name: grey wolf
+Spell: Felis domesticus, Common name: cat
+Spell: Mus musculus, Common name: mouse
+Spell: Oryctolagus cuniculus, Common name: European rabbit
+Spell: Passer domesticus, Common name: Haussperling
+Spell: Columba livia, Common name: carrier pigeon
+Spell: Python molurus, Common name: Indian python
